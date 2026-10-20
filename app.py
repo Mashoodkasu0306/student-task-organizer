@@ -96,7 +96,7 @@ th { background: #f0f0f0; }
 </head>
 <body>
 <h2>Student Task Organizer</h2>
-<p>DevOps Pipeline Successfully Executed</p>
+<p>Plan, track and finish your assignments on time.</p>
 
 <div class="box">
 <h3>1. Add a Task</h3>
